@@ -29,14 +29,19 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:BP_4v1-cache
+LIBS:PIC24FJ256GB106-X_PT
+LIBS:REG102NA-5_250
+LIBS:REG102NA-3.3_250
+LIBS:24AA64-I_MS
+LIBS:BusPirate
+LIBS:24AA64T
 EELAYER 27 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "BUS PIRATE"
-Date "16 feb 2016"
+Date "6 may 2016"
 Rev "4.10"
 Comp "PBL"
 Comment1 ""
